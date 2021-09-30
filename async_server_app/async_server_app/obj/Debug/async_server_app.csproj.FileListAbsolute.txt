@@ -1,0 +1,9 @@
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\bin\Debug\async_server_app.exe.config
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\bin\Debug\async_server_app.exe
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\bin\Debug\async_server_app.pdb
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\bin\Debug\websocket-sharp.dll
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\obj\Debug\async_server_app.csproj.AssemblyReference.cache
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\obj\Debug\async_server_app.csproj.CoreCompileInputs.cache
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\obj\Debug\async_server_app.csproj.CopyComplete
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\obj\Debug\async_server_app.exe
+C:\Users\novos\Desktop\Poslovi\async_server_app\async_server_app\obj\Debug\async_server_app.pdb
